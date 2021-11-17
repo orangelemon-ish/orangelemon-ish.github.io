@@ -1,3 +1,5 @@
+/*overall styles*/
+
 html, body {
 	max-width: 100%;
 	overflow-x: hidden;
@@ -172,4 +174,24 @@ a:hover {
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+/*me*/
+
+.me {
+	grid-row: 1 / span 1;
+}
+
+.meimg {
+	grid-column: 1 / span 1;
+	float:left;
+	height: 20em;
+	width: 20em;
+	border: 1.5em solid #4d11ca;
+}
+
+.metxt {
+	grid-column: 2 / span 1;
+	width: 100%;
+	text-align: left;
 }
