@@ -181,6 +181,7 @@ a:hover {
 .me {
 	grid-row: 1 / span 1;
 	margin-left: 20%;
+	margin-right: 20%;
 }
 
 .meimg {
@@ -189,6 +190,7 @@ a:hover {
 	height: 20em;
 	width: 20em;
 	border: 1.5em solid #4d11ca;
+	margin-right: 30px;
 }
 
 .metxt {
