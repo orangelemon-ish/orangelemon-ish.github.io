@@ -195,6 +195,5 @@ a:hover {
 
 .metxt {
 	grid-column: 2 / span 1;
-	width: 100%;
 	text-align: left;
 }
