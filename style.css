@@ -55,7 +55,7 @@ h3 {
 	/*display: inline;*/
 }
 
-h4{
+h4 {
 	color: black;
 	margin: none;
 	font-size: 15px;
@@ -107,9 +107,9 @@ hr {
 
 .grid1 {
 	display: grid;
-	width: 50%;
+	max-width: 50%;
 	grid-template: repeat(1, 1fr) / (2, 1fr);
-	grid-column-gap: 1em;
+	grid-column-gap: 10px;
 }
 
 /*link animations*/
