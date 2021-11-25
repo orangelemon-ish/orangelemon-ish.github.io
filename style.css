@@ -97,7 +97,7 @@ hr {
 	grid-column: 1 / span 1;
 	float: left;
 	height: 100%;
-	max-width: 100%;
+	max-width: 50%;
 	object-fit: cover;
 }
 
