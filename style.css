@@ -95,8 +95,8 @@ hr {
 .thingimg {
 	grid-column: 1 / span 1;
 	float:left;
-	height: 5em;
-	width: 5em;
+	height: 100%;
+	width: 50%;
 	margin-right: 10%;
 	object-fit: cover;
 }
