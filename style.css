@@ -104,7 +104,6 @@ hr {
 .thingtxt {
 	grid-column: 2 / span 1;
 	text-align: left;
-	width: 100%;
 }
 
 .grid1 {
