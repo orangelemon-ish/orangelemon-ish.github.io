@@ -10,6 +10,7 @@ h1 {
 	color: rgb(4, 245, 165);
 	font-size: 100px;
 	text-align: center;
+	width:80%;
 	padding: 20px; 
 	font-family: Raleway;
 	width: auto;
@@ -19,7 +20,7 @@ h1 {
 	text-transform: uppercase;
 	position: absolute;
   top: 40%;
-  left: 30%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
 
