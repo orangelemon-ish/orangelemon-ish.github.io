@@ -9,12 +9,7 @@ html, body {
 h1 {
 	color: rgb(4, 245, 165);
 	font-size: 100px;
-	text-align: center;
-	padding: 20px; 
 	font-family: Raleway;
-	width: auto;
-	margin:auto;
-	margin-top: 15px;
 	font-weight: bold;
 	text-transform: uppercase;
 	position: absolute;
