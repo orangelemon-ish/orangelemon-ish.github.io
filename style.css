@@ -11,6 +11,10 @@ html, body {
 	text-align: center;
 }
 
+.back img {
+	height: 400px;
+}
+
 h1 {
 	color: rgb(4, 245, 165);
 	font-size: 100px;
