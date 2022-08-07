@@ -79,6 +79,7 @@ html, body {
 
 .back img {
 	height: 20%;
+	object-fit: cover;
 }
 
 h1 {
