@@ -75,6 +75,7 @@ html, body {
 .back {
 	position: relative;
 	text-align: center;
+	height: 20%
 }
 
 .back img {
