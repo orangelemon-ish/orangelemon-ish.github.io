@@ -6,6 +6,8 @@ html, body {
 	margin: 0;
 }
 
+/*header image*/
+
 .back {
 	position: relative;
 	text-align: center;
@@ -29,6 +31,8 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/*font styles*/
 
 p {
 	font-family: Raleway;
@@ -70,6 +74,8 @@ h4 {
 	font-style: italic;
 }
 
+/*fun things*/
+
 hr {
 	border: 1px solid rgb(7, 180, 143);
 	max-width: 10%;
@@ -78,6 +84,8 @@ hr {
 ::selection {
 	background: rgba(4, 245, 165, 0.3);
 }
+
+/*intro interests*/
 
 .thing {
 	margin: auto;
@@ -140,10 +148,11 @@ a:hover {
 
 .navbar {
   overflow: hidden;
-  background-color:white;
+  background-color:black;
 	border-bottom: 1px solid rgb(4, 245, 165);
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 	margin: 0;
+	color: white;
 }
 
 .navbar a {
