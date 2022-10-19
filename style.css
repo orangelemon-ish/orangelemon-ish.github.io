@@ -10,7 +10,7 @@ html, body {
 /*nav*/
 
 .navbar {
-	overflow: hidden;
+	/*overflow: hidden;*/
 	background-color:black;
 	  border-bottom: 2px solid rgb(4, 245, 165);
 	  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -19,7 +19,7 @@ html, body {
   }
   
   .navbar a {
-	float: left;
+	/*float: left;*/
 	font-size: 16px;
 	color:white;
 	text-align: center;
@@ -31,9 +31,7 @@ html, body {
   .navbar a:hover {
 	text-decoration-color: rgb(12, 180, 247)
   }
-  
 
-  
 
 /*header image*/
 
