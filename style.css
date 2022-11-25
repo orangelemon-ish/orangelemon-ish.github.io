@@ -133,6 +133,7 @@ hr {
 	  background-repeat: repeat-x;
 	  background-size: 4px 2px;
 	text-decoration: none;
+	color: white;
 	transition: background-size .4s;
   }
   
