@@ -180,10 +180,11 @@ hr {
 .thing p {
 	font-size: 15px;
 	width: 100%;
+	grid-column: 1 / span 1;
 }
 
 .thingimg {
-	grid-column: 1 / span 1;
+	grid-column: 2 / span 1;
 	float: left;
 	object-fit: cover;
 	max-width: 90%;
