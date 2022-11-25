@@ -52,11 +52,11 @@ h1 {
 	font-family: Raleway;
 	font-weight: bold;
 	text-transform: uppercase;
-	position: absolute;
+	/*position: absolute;
 	width: 70%;
 	padding: 10%;
 	position: absolute;
-  /*top: 50%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);*/
 }
@@ -97,7 +97,7 @@ h3 {
 }
 
 h4 {
-	color: black;
+	color: white;
 	margin: none;
 	font-size: 15px;
 	font-family: Raleway;
